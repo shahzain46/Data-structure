@@ -10,3 +10,8 @@
 //     alert(`${data[el]} is the value of index ${el}`)
 // }
 
+function getEl() {
+    let el = document.getElementById("number").value;
+    alert(`${data[el]} is the value of index ${el}`)
+}
+
