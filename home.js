@@ -15,3 +15,4 @@ function getEl() {
     alert(`${data[el]} is the value of index ${el}`)
 }
 // 
+// 
